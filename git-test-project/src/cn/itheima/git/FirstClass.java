@@ -12,6 +12,9 @@ public class FirstClass {
         System.out.println("hello git7");
         System.out.println("hello git8");
 
+        //hello git
+        int i=0;
+
 
 
     }
